@@ -1,3 +1,9 @@
 [submodule "js/bootstrap-ajax-typeahead"]
 	path = js/bootstrap-ajax-typeahead
 	url = git://github.com/biggora/bootstrap-ajax-typeahead.git
+[submodule "plugins/jquery-plugin-circliful"]
+	path = plugins/jquery-plugin-circliful
+	url = git@github.com:pguso/jquery-plugin-circliful.git
+[submodule "plugins/bootstrap-ajax-typeahead"]
+	path = plugins/bootstrap-ajax-typeahead
+	url = git://github.com/biggora/bootstrap-ajax-typeahead.git
