@@ -43,6 +43,8 @@ require 'header.php';
        <div class="col-xs-10 col-xs-offset-1">
             <!-- Main -->
            <div class="row">
+               <div class="col-xs-12" id="information">
+
                    info
                </div>
            </div>
