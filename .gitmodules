@@ -4,3 +4,6 @@
 [submodule "plugins/bootstrap-ajax-typeahead"]
 	path = plugins/bootstrap-ajax-typeahead
 	url = git://github.com/biggora/bootstrap-ajax-typeahead.git
+[submodule "plugins/easy-pie-chart"]
+	path = plugins/easy-pie-chart
+	url = git@github.com:rendro/easy-pie-chart.git
